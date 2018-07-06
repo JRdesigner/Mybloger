@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jrdesigner.github.io/Mybloger/2018/07/bai-2/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jrdesigner.github.io/Mybloger/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url>
@@ -137,7 +142,7 @@
   
   <url>
     <loc>https://jrdesigner.github.io/Mybloger/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,14 +165,26 @@
   </url>
   
   <url>
+    <loc>https://jrdesigner.github.io/Mybloger/tags/my-tag/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jrdesigner.github.io/Mybloger/tags/pagination/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://jrdesigner.github.io/Mybloger/tags/php/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jrdesigner.github.io/Mybloger/post/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

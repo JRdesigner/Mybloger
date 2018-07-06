@@ -120,11 +120,29 @@
     </item>
     
     <item>
+      <title>My Tag</title>
+      <link>https://jrdesigner.github.io/Mybloger/tags/my-tag/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrdesigner.github.io/Mybloger/tags/my-tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pagination</title>
       <link>https://jrdesigner.github.io/Mybloger/tags/pagination/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://jrdesigner.github.io/Mybloger/tags/pagination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>https://jrdesigner.github.io/Mybloger/tags/php/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrdesigner.github.io/Mybloger/tags/php/</guid>
       <description></description>
     </item>
     

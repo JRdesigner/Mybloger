@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jrdesigner.github.io/Mybloger/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bai 2</title>
+      <link>https://jrdesigner.github.io/Mybloger/2018/07/bai-2/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrdesigner.github.io/Mybloger/2018/07/bai-2/</guid>
+      <description>ok ##What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
     
     <item>
       <title>Welcome to Tranquilpeak 0.4.3-BETA</title>
